@@ -1,4 +1,5 @@
 package ru.netology.task;
+
 import java.util.Objects;
 
 public class Task {

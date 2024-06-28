@@ -1,4 +1,5 @@
 package ru.netology.task;
+
 public class Meeting extends Task {
     protected String topic;
     protected String project;
